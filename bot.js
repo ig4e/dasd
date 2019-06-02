@@ -58,7 +58,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`** الله يرحم مصطفى الشبح كان طفل كويس**[ " ${x} " ]`)
+        message.channel.send(`** مصطفى طفلللل عيل علق بيشخ كل يوم**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
